@@ -1,0 +1,6 @@
+[Unit]
+Description=Sincronizacion de copia espejo de Sebastian
+
+[Service]
+Type=oneshot
+ExecStart=/scrsebastian/sebastiansp31-9.sh
